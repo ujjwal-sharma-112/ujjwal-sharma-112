@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/ujjwal-sharma-112/ujjwal-sharma-112/blob/master/devcard.svg" width="400" alt="Ujjwal Sharma's Dev Card"/>
+<img src="https://github.com/ujjwal-sharma-112/ujjwal-sharma-112/blob/master/devcard.svg" width="400" alt="Ujjwal Sharma's Dev Card" />
 
 <!--
 **ujjwal-sharma-112/ujjwal-sharma-112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
