@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <img src="https://github.com/ujjwal-sharma-112/ujjwal-sharma-112/blob/main/devcard.svg" width="400" alt="Ujjwal Sharma's Dev Card" />
 
